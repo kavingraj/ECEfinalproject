@@ -15,7 +15,6 @@ def gps(path):
         return False
     else:
         print('NOTHING!!!')
-        #doNothing()
     return True
 
 if __name__ == '__main__':
